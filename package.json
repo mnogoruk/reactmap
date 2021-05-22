@@ -3,11 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.11.4",
+    "@react-google-maps/api": "^2.2.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "google-maps-react": "^2.0.6",
+    "interrail": "^3.0.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-google-map": "^3.1.1",
+    "react-google-maps": "^9.4.5",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
